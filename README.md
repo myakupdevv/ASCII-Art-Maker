@@ -1,9 +1,9 @@
 # ASCII Art Maker
 
-Yazdığınız kelimeyi ASCII Art şekilde size geri gönderen, Python ile yapılan bir kod.
+Girdiğiniz kelimeyi ASCII Art tarzında çıktı alan bir Python kodu.
 
 **Gereksinimler:** **Windows ve Mac için:** pip install art <br />
-                   **Linux için:** python3 -m venv myvenv <br />
-                                  source myvenv/bin/activate <br />
-                                  pip3 install art
+         	   **Linux için:**     python3 -m venv myvenv
+         	            source myvenv/bin/activate
+         	            pip3 install art
 
