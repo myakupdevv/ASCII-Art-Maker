@@ -1,6 +1,9 @@
 # ASCII Art Maker
- Python ile yazılmış, yazınızı ASCII Art sanatına çeviren bir proje. <br />
- **Gereksinimler:** pip install art <br/>
- **Linux İçin :** python3 -m venv myvenv <br />
-                  source myvenv/bin/activate <br />
-                  pip3 install art
+
+Yazdığınız kelimeyi ASCII Art şekilde size geri gönderen, Python ile yapılan bir kod.
+
+**Gereksinimler:** **Windows ve Mac için:** pip install art <br />
+                   **Linux için:* python3 -m venv myvenv <br />
+                                  source myvenv/bin/activate <br />
+                                  pip3 install art
+
